@@ -1,0 +1,11 @@
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

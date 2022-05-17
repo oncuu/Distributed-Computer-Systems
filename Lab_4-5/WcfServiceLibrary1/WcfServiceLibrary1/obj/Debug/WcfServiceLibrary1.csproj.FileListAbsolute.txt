@@ -1,0 +1,6 @@
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

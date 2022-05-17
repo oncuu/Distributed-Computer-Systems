@@ -1,0 +1,14 @@
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\Client.exe.config
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\Client.exe
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\Client.pdb
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\ConsoleApp1.exe
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\obj\Debug\Client.exe
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\obj\Debug\Client.pdb
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kaan\Documents\Codes\Distributed Computer Systems\Lab_4-5\WcfServiceLibrary1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
